@@ -40,14 +40,12 @@ Ensure you have the following software installed:
 Run the script to generate the KML and KMZ files:
 
 ```bash
-python generate_map.py
+python network_map.py
 ```
-
-Replace `generate_map.py` with the actual script name if it differs.
 
 ### Example
 
-Provide an example of how to use the generated KML or KMZ files with a mapping application, such as Google Earth.
+https://kmzview.com/h2wVGoQQG7CjR5v5BB5n
 
 ## Contributing
 
